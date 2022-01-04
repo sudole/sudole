@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ## 📬 Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:tnwls2sam@naver.com)](mailto:tnwls2sam@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:resqpa79@gmail.com)](mailto:resqpa79@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:tnwls2sam@naver.com)](mailto:tnwls2sam@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:resqpa79@gmail.com)](mailto:resqpa79@gmail.com) <a target="_blank" href="https://sudole.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-404254?style=flat-square&logo=Devpost&logoColor=white&link=https://sudole.tistory.com/"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudole&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
