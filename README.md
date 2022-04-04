@@ -32,9 +32,14 @@ Here are some ideas to get you started:
 ## 📬 Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:tnwls2sam@naver.com)](mailto:tnwls2sam@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:resqpa79@gmail.com)](mailto:resqpa79@gmail.com) <a target="_blank" href="https://sudole.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-404254?style=flat-square&logo=Devpost&logoColor=white&link=https://sudole.tistory.com/"/>
 
-
+ <!--
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={resqpa79})](https://solved.ac/{resqpa79})
+ -->
+ 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudole&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudole&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
