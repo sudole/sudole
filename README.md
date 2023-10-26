@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=FD8A8A&height=180&section=header&text=SUDOLE&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=1D8A8A&height=180&section=header&text=SUDOLE&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=fadeIn)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsudole%2Fhit-counter&count_bg=%239EA1D4&title_bg=%239A9898&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/sudole)
 
